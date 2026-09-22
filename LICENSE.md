@@ -1,4 +1,4 @@
-# Fork of The Parity Public License 7.0.0, Development Draft
+# Fork of The Parity Public License 7.0.0. Development Draft
 
 Contributor: $name
 
