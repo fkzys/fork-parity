@@ -40,7 +40,7 @@ To [contribute](#contribute) software:
 
 1.  Publish all source code for the software in the preferred form for making changes through a freely accessible distribution system widely used for similar source code so the contributor and others can find and copy it.
 
-2.  Make sure every part of the source code is available under this license or [AGPLv3.0](https://www.gnu.org/licenses/agpl-3.0.en.html).
+2.  Make sure every part of the source code is available under this license or [AGPLv3.0](https://www.gnu.org/licenses/agpl-3.0.en.html) or [GPLv3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 3.  Take these steps within thirty days.
 
